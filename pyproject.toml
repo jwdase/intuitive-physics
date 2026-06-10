@@ -1,0 +1,11 @@
+[project]
+name = "intuitive-physics"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "jax>=0.10.1",
+    "numpy>=2.4.6",
+    "trimesh>=4.12.2",
+]
