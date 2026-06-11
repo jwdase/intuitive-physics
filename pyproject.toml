@@ -6,6 +6,9 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "jax>=0.10.1",
+    "mesh-to-sdf>=0.0.15",
     "numpy>=2.4.6",
+    "rtree>=1.4.1",
+    "scikit-image>=0.26.0",
     "trimesh>=4.12.2",
 ]
